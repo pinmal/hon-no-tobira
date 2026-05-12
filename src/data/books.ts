@@ -12,7 +12,7 @@ export interface Book {
 }
 
 // Amazon tag: hon-no-tobira 用に新規登録後に差し替え
-const TAG = 'tsuricamp0e-22';
+const TAG = 'honnotobira-22';
 
 export function amazonUrl(asin: string): string {
   return `https://www.amazon.co.jp/dp/${asin}?tag=${TAG}`;
