@@ -1,0 +1,109 @@
+---
+import Layout from '../components/Layout.astro';
+import BookCard from '../components/BookCard.astro';
+import { books, genres } from '../data/books';
+---
+
+<Layout title="本のとびら — Kindleおすすめ書籍一覧">
+  <!-- Hero -->
+  <section class="text-center py-8 space-y-3">
+    <div class="text-5xl">📖</div>
+    <h1 class="text-2xl font-bold text-textPrimary">本のとびら</h1>
+    <p class="text-textMuted text-sm max-w-md mx-auto leading-relaxed">
+      Kindleで読める本を毎日紹介しています。<br />
+      釣り・キャンプ・料理・健康・犬・園芸 ジャンル多彩。
+    </p>
+    <a
+      href="https://www.instagram.com/hon_no_tobira"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-pink-500 text-white text-sm font-bold px-5 py-2.5 rounded-full hover:opacity-90 transition-opacity"
+    >
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+      </svg>
+      @hon_no_tobira をフォロー
+    </a>
+  </section>
+
+  <!-- Genre filter -->
+  <section class="mb-6">
+    <div class="flex flex-wrap gap-2 justify-center" id="genre-filter">
+      <button
+        data-genre="all"
+        class="genre-btn active text-xs px-3 py-1.5 rounded-full border border-accent bg-accent text-bg font-bold transition-colors"
+      >
+        すべて
+      </button>
+      {genres.map((genre) => (
+        <button
+          data-genre={genre}
+          class="genre-btn text-xs px-3 py-1.5 rounded-full border border-border text-textMuted hover:border-accent hover:text-textPrimary transition-colors"
+        >
+          {genre}
+        </button>
+      ))}
+    </div>
+  </section>
+
+  <!-- Book grid -->
+  <section>
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4" id="book-grid">
+      {books.map((book) => (
+        <div data-genre={book.genre} class="book-item">
+          <BookCard book={book} />
+        </div>
+      ))}
+    </div>
+    <p id="no-results" class="hidden text-center text-textMuted text-sm py-12">
+      このジャンルの書籍は準備中です。
+    </p>
+  </section>
+
+  <!-- CTA -->
+  <section class="mt-16 text-center bg-surface rounded-2xl p-8 border border-border space-y-4">
+    <p class="text-lg font-bold text-accent">あなたの本も紹介しませんか？</p>
+    <p class="text-sm text-textMuted max-w-sm mx-auto">
+      Kindle本の宣伝依頼を受け付けています。<br />
+      Instagramでフォロワーへ紹介します。
+    </p>
+    <a
+      href="/request"
+      class="inline-block bg-accent text-bg text-sm font-bold px-6 py-3 rounded-lg hover:bg-accentLight transition-colors"
+    >
+      依頼の詳細を見る
+    </a>
+  </section>
+</Layout>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.genre-btn');
+  const items = document.querySelectorAll<HTMLElement>('.book-item');
+  const noResults = document.getElementById('no-results')!;
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const genre = btn.dataset.genre!;
+
+      // active style
+      buttons.forEach((b) => {
+        b.classList.remove('active', 'bg-accent', 'text-bg', 'border-accent');
+        b.classList.add('border-border', 'text-textMuted');
+      });
+      btn.classList.add('active', 'bg-accent', 'text-bg', 'border-accent');
+      btn.classList.remove('border-border', 'text-textMuted');
+
+      let visible = 0;
+      items.forEach((item) => {
+        if (genre === 'all' || item.dataset.genre === genre) {
+          item.style.display = '';
+          visible++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      noResults.classList.toggle('hidden', visible > 0);
+    });
+  });
+</script>

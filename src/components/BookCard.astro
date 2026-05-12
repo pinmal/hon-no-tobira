@@ -1,0 +1,59 @@
+---
+import type { Book } from '../data/books';
+import { amazonUrl } from '../data/books';
+
+interface Props {
+  book: Book;
+}
+
+const { book } = Astro.props;
+
+const genreColor: Record<string, string> = {
+  '釣り': 'bg-blue-900 text-blue-200',
+  'キャンプ': 'bg-green-900 text-green-200',
+  '料理': 'bg-orange-900 text-orange-200',
+  '健康・生活': 'bg-purple-900 text-purple-200',
+  '犬': 'bg-yellow-900 text-yellow-200',
+  '園芸': 'bg-emerald-900 text-emerald-200',
+};
+---
+
+<div class="flex flex-col bg-card rounded-xl overflow-hidden border border-border hover:border-accent transition-colors duration-200">
+  <div class="relative aspect-[2/3] overflow-hidden bg-surface">
+    <img
+      src={book.cover}
+      alt={book.title}
+      class="w-full h-full object-cover"
+      loading="lazy"
+    />
+  </div>
+  <div class="p-4 flex flex-col flex-1 gap-2">
+    <div class="flex items-center justify-between gap-2">
+      <span class={`text-xs px-2 py-0.5 rounded-full font-medium ${genreColor[book.genre] ?? 'bg-gray-800 text-gray-300'}`}>
+        {book.genre}
+      </span>
+      {book.price && (
+        <span class="text-xs text-textMuted">¥{book.price}</span>
+      )}
+    </div>
+    <h3 class="text-sm font-bold text-textPrimary leading-snug line-clamp-3">{book.title}</h3>
+    <p class="text-xs text-textMuted">{book.author}</p>
+    <p class="text-xs text-textMuted leading-relaxed line-clamp-2 flex-1">{book.description}</p>
+    <div class="mt-auto pt-2">
+      {book.asin ? (
+        <a
+          href={amazonUrl(book.asin)}
+          target="_blank"
+          rel="sponsored noopener noreferrer"
+          class="block w-full text-center text-xs font-bold py-2 px-3 rounded-lg bg-accent text-bg hover:bg-accentLight transition-colors duration-150"
+        >
+          Amazonで見る
+        </a>
+      ) : (
+        <span class="block w-full text-center text-xs py-2 px-3 rounded-lg bg-surface text-textMuted border border-border">
+          近日公開
+        </span>
+      )}
+    </div>
+  </div>
+</div>

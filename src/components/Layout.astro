@@ -1,0 +1,52 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = '本のとびら — Kindleで読める本を毎日紹介します' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-bg text-textPrimary font-sans min-h-screen">
+    <header class="sticky top-0 z-10 bg-bg/90 backdrop-blur border-b border-border">
+      <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2 group">
+          <span class="text-2xl">📖</span>
+          <span class="text-lg font-bold text-accent group-hover:text-accentLight transition-colors">本のとびら</span>
+        </a>
+        <nav class="flex items-center gap-4 text-sm">
+          <a href="/" class="text-textMuted hover:text-textPrimary transition-colors">書籍一覧</a>
+          <a href="/request" class="bg-accent text-bg px-3 py-1.5 rounded-lg font-bold hover:bg-accentLight transition-colors text-xs">
+            宣伝依頼
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="border-t border-border mt-16">
+      <div class="max-w-4xl mx-auto px-4 py-8 text-center text-xs text-textMuted space-y-1">
+        <p>© 2026 本のとびら</p>
+        <p>本サイトはAmazonアソシエイト・プログラムの参加者です。</p>
+        <p>紹介書籍の著者はすべて架空のキャラクターです（内容は実際の調査に基づきます）。</p>
+      </div>
+    </footer>
+  </body>
+</html>
