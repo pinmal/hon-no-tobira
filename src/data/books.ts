@@ -120,6 +120,16 @@ export const books: Book[] = [
     description: 'Jackery・EcoFlow・BLUETTIを徹底比較。釣りキャンプの電源選びで失敗しないための完全ガイド。',
   },
   {
+    id: 'book26',
+    title: 'サーフフィッシング入門 ヒラメ・マゴチを砂浜から狙う完全ガイド',
+    author: '磯崎健太',
+    genre: '釣り',
+    asin: 'B0GYQ8MZC4',
+    price: 350,
+    cover: '/covers/book26.jpg',
+    description: '玄界灘アングラーが教えるヒラメ・マゴチ攻略法。離岸流の読み方・ルアー選び・砂浜地形の活かし方を初心者向けに解説。',
+  },
+  {
     id: 'book28',
     title: 'パパと子どもの釣り料理入門 釣れた魚を一緒に調理する30レシピ',
     author: '田中しんじ',
