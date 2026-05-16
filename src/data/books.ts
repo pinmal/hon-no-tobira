@@ -139,6 +139,16 @@ export const books: Book[] = [
     cover: '/covers/book28.jpg',
     description: '釣ってきた魚を親子で調理する30レシピ。子どもでも安全にできる手順を丁寧に解説。',
   },
+  {
+    id: 'book31',
+    title: 'タイラバ入門 マダイを船から狙う基本と応用',
+    author: '磯崎健太',
+    genre: '釣り',
+    asin: 'B0H1YXFF8N',
+    price: 499,
+    cover: '/covers/book31.jpg',
+    description: '釣り歴38年・タイラバ釣行170回超のベテランが教えるマダイ攻略法。タックル選びからフォール技術まで初心者が最短で結果を出す完全ガイド。',
+  },
 ];
 
 export const genres: Genre[] = ['釣り', 'キャンプ', '料理', '健康・生活', '犬', '園芸'];
