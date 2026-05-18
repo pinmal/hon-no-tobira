@@ -149,6 +149,16 @@ export const books: Book[] = [
     cover: '/covers/book31.jpg',
     description: '釣り歴38年・タイラバ釣行170回超のベテランが教えるマダイ攻略法。タックル選びからフォール技術まで初心者が最短で結果を出す完全ガイド。',
   },
+  {
+    id: 'book35',
+    title: 'タコ釣り入門 陸っぱりで狙う夏のマダコ',
+    author: '磯崎健太',
+    genre: '釣り',
+    asin: 'B0H22ZRCD2',
+    price: 499,
+    cover: '/covers/book35.jpg',
+    description: '堤防・テトラから始めるマダコ攻略バイブル。アタリの取り方からタコエギ選び・下処理まで、シーズン直前に読んでおきたい完全入門ガイド。',
+  },
 ];
 
 export const genres: Genre[] = ['釣り', 'キャンプ', '料理', '健康・生活', '犬', '園芸'];
