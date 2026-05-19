@@ -159,6 +159,16 @@ export const books: Book[] = [
     cover: '/covers/book35.jpg',
     description: '堤防・テトラから始めるマダコ攻略バイブル。アタリの取り方からタコエギ選び・下処理まで、シーズン直前に読んでおきたい完全入門ガイド。',
   },
+  {
+    id: 'book36',
+    title: '夜焚きイカ釣り入門 スルメイカ・ヤリイカを船で狙う',
+    author: '磯崎健太',
+    genre: '釣り',
+    asin: 'B0H27HZCSP',
+    price: 499,
+    cover: '/covers/book36.jpg',
+    description: '集魚灯の下で連発する！プラヅノ仕掛けと電動リールの基本から実釣テクニックまで。夜焚きイカ釣行90回超のベテランが教える完全入門ガイド。',
+  },
 ];
 
 export const genres: Genre[] = ['釣り', 'キャンプ', '料理', '健康・生活', '犬', '園芸'];
