@@ -7,7 +7,7 @@ export const GET: APIRoute = () => {
   const items = posts
     .slice(0, 30)
     .map((post) => {
-      const text = post.caption + '\n\n' + post.hashtags.map((h) => `#${h}`).join(' ');
+      const text = post.caption + '\n\n' + post.hashtags.join(' ');
       const pubDate = new Date(post.date + 'T09:00:00+09:00').toUTCString();
       const guid = `hon-no-tobira-${post.date}-${post.bookId}`;
       const escapedText = text
@@ -21,7 +21,7 @@ export const GET: APIRoute = () => {
       <link>https://hon-no-tobira.pages.dev/</link>
       <guid isPermaLink="false">${guid}</guid>
       <pubDate>${pubDate}</pubDate>
-      <enclosure url="${post.imageUrl}" type="image/jpeg" length="0"/>
+      <enclosure url="${post.imageUrl}" type="image/jpeg" length="100000"/>
     </item>`;
     })
     .join('\n');
