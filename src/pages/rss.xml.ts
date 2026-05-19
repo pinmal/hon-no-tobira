@@ -22,6 +22,7 @@ export const GET: APIRoute = () => {
       <guid isPermaLink="false">${guid}</guid>
       <pubDate>${pubDate}</pubDate>
       <enclosure url="${post.imageUrl}" type="image/jpeg" length="100000"/>
+      <imageurl>${post.imageUrl}</imageurl>
     </item>`;
     })
     .join('\n');
