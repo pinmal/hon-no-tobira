@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-05-21",
+      "bookId": "book03",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "焚き火で料理してみたいけど、何から始めればいいかわからない…という方へ🔥\nダッチオーブンなし・最小限の道具で本格的なキャンプ飯が作れる方法を解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#焚き火料理",
+        "#キャンプ飯",
+        "#アウトドア料理",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-20",
       "bookId": "book36",
       "patternIndex": 0,
