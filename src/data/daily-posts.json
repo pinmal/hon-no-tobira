@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-05-22",
+      "bookId": "book04",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
+      "caption": "柴犬を迎えたばかりで、何をどうしたらいいかわからない…そんな方のための完全ガイドです🐕\n性格・しつけ・健康管理・お手入れまで、最初に知っておきたいことが全部詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#柴犬",
+        "#犬のしつけ",
+        "#犬好き",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-21",
       "bookId": "book03",
       "patternIndex": 0,
