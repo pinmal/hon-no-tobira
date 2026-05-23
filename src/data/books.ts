@@ -170,6 +170,16 @@ export const books: Book[] = [
     description: '帰宅22時・コンビニ生活でも続けられる。忙しい社会人がコレステロール・血糖値を食事で改善するための実践的な「食事設計」ガイド。',
   },
   {
+    id: 'book38',
+    title: 'トイプードルの育て方完全ガイド',
+    author: '久保里奈',
+    genre: '犬',
+    asin: 'B0H2NNN8PR',
+    price: null,
+    cover: '/covers/book38.jpg',
+    description: '吠え・分離不安・涙やけの直し方。柴犬専門飼い主が一から学んだ、プードルと仲よく暮らすコツを徹底解説。',
+  },
+  {
     id: 'book36',
     title: '夜焚きイカ釣り入門 スルメイカ・ヤリイカを船で狙う',
     author: '磯崎健太',
