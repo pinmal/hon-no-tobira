@@ -5,6 +5,7 @@ interface Props {
 }
 
 const { title, description = '本のとびら — Kindleで読める本を毎日紹介します' } = Astro.props;
+const canonicalUrl = new URL(Astro.url.pathname, 'https://hon-no-tobira.pages.dev').href;
 ---
 
 <!DOCTYPE html>
@@ -14,7 +15,9 @@ const { title, description = '本のとびら — Kindleで読める本を毎日
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
     <meta property="og:title" content={title} />
+    <meta property="og:url" content={canonicalUrl} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
