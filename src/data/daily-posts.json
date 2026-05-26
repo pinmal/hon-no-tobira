@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-05-26",
+      "bookId": "book31",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
+      "caption": "タイラバでマダイを釣りたい方のための完全入門書🎣\nタックル選びからフォールで乗せる技術まで、初心者が確実に上達できる内容です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タイラバ",
+        "#マダイ",
+        "#乗合船",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-25",
       "bookId": "book28",
       "patternIndex": 0,
