@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-05-27",
+      "bookId": "book36",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "夜の海に集魚灯が灯ると、スルメイカ・ヤリイカが一斉に浮いてくる🦑\nプラヅノの選び方・仕掛けの作り方・電動リールの使い方を初心者向けに解説。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#プラヅノ",
+        "#ヤリイカ釣り",
+        "#夜釣り",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-26",
       "bookId": "book31",
       "patternIndex": 1,
