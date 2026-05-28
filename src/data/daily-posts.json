@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-05-28",
+      "bookId": "book37",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
+      "caption": "健康診断でコレステロールや血糖値が引っかかったけど、忙しくて食事を変える余裕がない…という方へ🩺\n帰宅22時・コンビニ生活でも続けられる「食事設計」の実践方法を解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#健康診断対策",
+        "#コレステロール改善",
+        "#血糖値対策",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-27",
       "bookId": "book36",
       "patternIndex": 1,
