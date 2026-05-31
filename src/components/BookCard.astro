@@ -16,16 +16,35 @@ const genreColor: Record<string, string> = {
   '犬': 'bg-yellow-900 text-yellow-200',
   '園芸': 'bg-emerald-900 text-emerald-200',
 };
+
+const bookData = JSON.stringify({
+  id: book.id,
+  title: book.title,
+  author: book.author,
+  genre: book.genre,
+  asin: book.asin,
+  cover: book.cover,
+  tableOfContents: book.tableOfContents ?? [],
+  excerpt: book.excerpt ?? '',
+});
 ---
 
-<div class="flex flex-col h-full bg-card rounded-xl overflow-hidden border border-border hover:border-accent transition-colors duration-200">
+<div
+  class="flex flex-col h-full bg-card rounded-xl overflow-hidden border border-border hover:border-accent transition-colors duration-200 cursor-pointer group"
+  data-book={bookData}
+>
   <div class="relative aspect-[2/3] overflow-hidden bg-surface">
     <img
       src={book.cover}
       alt={book.title}
-      class="w-full h-full object-cover"
+      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
       loading="lazy"
     />
+    {(book.tableOfContents?.length || book.excerpt) && (
+      <div class="absolute bottom-0 inset-x-0 bg-black/60 text-white text-center text-xs py-1.5 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+        目次・試し読み
+      </div>
+    )}
   </div>
   <div class="p-4 flex flex-col flex-1 gap-2">
     <div class="flex items-center justify-between gap-2">

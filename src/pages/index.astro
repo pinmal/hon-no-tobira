@@ -60,9 +60,59 @@ import { books, genres } from '../data/books';
     </p>
   </section>
 
+  <!-- Book detail modal -->
+  <div id="book-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4" role="dialog" aria-modal="true">
+    <div id="modal-backdrop" class="absolute inset-0 bg-black/70 backdrop-blur-sm"></div>
+    <div class="relative z-10 bg-card border border-border rounded-2xl max-w-lg w-full max-h-[85vh] overflow-y-auto shadow-2xl">
+      <!-- Close button -->
+      <button
+        id="modal-close"
+        class="absolute top-3 right-3 w-8 h-8 flex items-center justify-center text-textMuted hover:text-textPrimary text-lg font-bold rounded-full hover:bg-surface transition-colors"
+        aria-label="閉じる"
+      >×</button>
+
+      <!-- Header -->
+      <div class="flex gap-4 p-5 border-b border-border pr-12">
+        <img id="modal-cover" src="" alt="" class="w-16 h-24 object-cover rounded-lg flex-shrink-0 border border-border" />
+        <div class="flex-1 min-w-0">
+          <span id="modal-genre" class="text-xs px-2 py-0.5 rounded-full font-medium"></span>
+          <h2 id="modal-title" class="text-sm font-bold text-textPrimary mt-2 leading-snug"></h2>
+          <p id="modal-author" class="text-xs text-textMuted mt-1"></p>
+        </div>
+      </div>
+
+      <!-- Body -->
+      <div class="p-5 space-y-5">
+        <!-- TOC -->
+        <div>
+          <h3 class="text-xs font-bold text-accent tracking-wide mb-3">📋 目次</h3>
+          <ol id="modal-toc" class="space-y-2"></ol>
+        </div>
+
+        <!-- Excerpt -->
+        <div>
+          <h3 class="text-xs font-bold text-accent tracking-wide mb-3">📖 冒頭試し読み</h3>
+          <p id="modal-excerpt" class="text-sm text-textPrimary leading-relaxed"></p>
+          <p class="text-xs text-textMuted mt-3">……（続きはAmazonで）</p>
+        </div>
+
+        <!-- Amazon button -->
+        <a
+          id="modal-amazon"
+          href="#"
+          target="_blank"
+          rel="sponsored noopener noreferrer"
+          class="block w-full text-center text-sm font-bold py-3 px-4 rounded-lg bg-accent text-bg hover:bg-accentLight transition-colors"
+        >
+          Amazonで読む →
+        </a>
+      </div>
+    </div>
+  </div>
 </Layout>
 
 <script>
+  // === Genre filter ===
   const buttons = document.querySelectorAll<HTMLButtonElement>('.genre-btn');
   const items = document.querySelectorAll<HTMLElement>('.book-item');
   const noResults = document.getElementById('no-results')!;
@@ -71,7 +121,6 @@ import { books, genres } from '../data/books';
     btn.addEventListener('click', () => {
       const genre = btn.dataset.genre!;
 
-      // active style
       buttons.forEach((b) => {
         b.classList.remove('active', 'bg-accent', 'text-bg', 'border-accent');
         b.classList.add('border-border', 'text-textMuted');
@@ -91,5 +140,92 @@ import { books, genres } from '../data/books';
 
       noResults.classList.toggle('hidden', visible > 0);
     });
+  });
+
+  // === Book detail modal ===
+  const modal = document.getElementById('book-modal')!;
+  const modalBackdrop = document.getElementById('modal-backdrop')!;
+  const modalClose = document.getElementById('modal-close')!;
+  const modalCover = document.getElementById('modal-cover') as HTMLImageElement;
+  const modalGenre = document.getElementById('modal-genre')!;
+  const modalTitle = document.getElementById('modal-title')!;
+  const modalAuthor = document.getElementById('modal-author')!;
+  const modalToc = document.getElementById('modal-toc')!;
+  const modalExcerpt = document.getElementById('modal-excerpt')!;
+  const modalAmazon = document.getElementById('modal-amazon') as HTMLAnchorElement;
+
+  const GENRE_COLOR: Record<string, string> = {
+    '釣り': 'bg-blue-900 text-blue-200',
+    'キャンプ': 'bg-green-900 text-green-200',
+    '料理': 'bg-orange-900 text-orange-200',
+    '健康・生活': 'bg-purple-900 text-purple-200',
+    '犬': 'bg-yellow-900 text-yellow-200',
+    '園芸': 'bg-emerald-900 text-emerald-200',
+  };
+
+  interface BookData {
+    id: string;
+    title: string;
+    author: string;
+    genre: string;
+    asin: string | null;
+    cover: string;
+    tableOfContents: string[];
+    excerpt: string;
+  }
+
+  function openModal(data: BookData) {
+    modalCover.src = data.cover;
+    modalCover.alt = data.title;
+
+    modalGenre.textContent = data.genre;
+    modalGenre.className = `text-xs px-2 py-0.5 rounded-full font-medium ${GENRE_COLOR[data.genre] ?? 'bg-gray-800 text-gray-300'}`;
+
+    modalTitle.textContent = data.title;
+    modalAuthor.textContent = data.author;
+
+    // TOC
+    modalToc.innerHTML = '';
+    data.tableOfContents.forEach((chapter, i) => {
+      const li = document.createElement('li');
+      li.className = 'flex items-start gap-2 text-sm text-textMuted';
+      li.innerHTML = `<span class="text-accent font-bold text-xs mt-0.5 w-4 flex-shrink-0">${i + 1}</span><span>${chapter}</span>`;
+      modalToc.appendChild(li);
+    });
+
+    // Excerpt
+    modalExcerpt.textContent = data.excerpt;
+
+    // Amazon link
+    if (data.asin) {
+      modalAmazon.href = `https://www.amazon.co.jp/dp/${data.asin}?tag=honnotobira-22`;
+      modalAmazon.style.display = '';
+    } else {
+      modalAmazon.style.display = 'none';
+    }
+
+    modal.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    modal.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+
+  // Card click → open modal (skip when clicking Amazon link inside card)
+  document.querySelectorAll<HTMLElement>('[data-book]').forEach((card) => {
+    card.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).closest('a')) return;
+      const data: BookData = JSON.parse(card.dataset.book!);
+      openModal(data);
+    });
+  });
+
+  // Close triggers
+  modalBackdrop.addEventListener('click', closeModal);
+  modalClose.addEventListener('click', closeModal);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeModal();
   });
 </script>
