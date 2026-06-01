@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-01",
+      "bookId": "book02",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "車中泊しながら釣りもキャンプもしたい…でも何を揃えたらいいかわからない。\nそんな方のための入門書です🚐🎣\n軽バン1台で充実した釣りキャンプを始めるリアルな方法を解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#車中泊",
+        "#釣りキャンプ",
+        "#軽バン",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-05-31",
       "bookId": "book01",
       "patternIndex": 0,
