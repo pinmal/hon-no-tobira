@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-03",
+      "bookId": "book04",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
+      "caption": "柴犬との暮らしをもっと楽しくしたいなら、この一冊が役立ちます🐕\n性格の特徴・効果的なしつけ方・健康管理のコツまで体系的に学べます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#柴犬好き",
+        "#犬のいる生活",
+        "#ペット",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-02",
       "bookId": "book03",
       "patternIndex": 1,
