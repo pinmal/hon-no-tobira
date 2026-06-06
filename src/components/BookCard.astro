@@ -51,9 +51,6 @@ const bookData = JSON.stringify({
       <span class={`text-xs px-2 py-0.5 rounded-full font-medium ${genreColor[book.genre] ?? 'bg-gray-800 text-gray-300'}`}>
         {book.genre}
       </span>
-      {book.price && (
-        <span class="text-xs text-textMuted">¥{book.price}</span>
-      )}
     </div>
     <h3 class="text-sm font-bold text-textPrimary leading-snug line-clamp-3">{book.title}</h3>
     <p class="text-xs text-textMuted">{book.author}</p>
