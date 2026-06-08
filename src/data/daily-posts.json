@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-08",
+      "bookId": "book23",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子どもを連れて釣りに行きたいけど、どこに行けばいいか・安全なのかが心配…という親御さんへ👨‍👧\n子どもが「また行きたい！」と言う釣行の秘訣をまとめた全国ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#子連れ釣り",
+        "#ファミリー釣り",
+        "#釣り初心者",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-07",
       "bookId": "book13",
       "patternIndex": 0,
