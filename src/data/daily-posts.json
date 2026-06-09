@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-09",
+      "bookId": "book25",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
+      "caption": "釣りキャンプに最適なポータブル電源の選び方、知りたくありませんか？🔋\nJackery・EcoFlow・BLUETTIを実使用データで比較。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ポータブル電源比較",
+        "#車中泊",
+        "#釣りキャンプ",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-08",
       "bookId": "book23",
       "patternIndex": 0,
