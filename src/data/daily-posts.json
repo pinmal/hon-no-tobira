@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-10",
+      "bookId": "book26",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
+      "caption": "砂浜からヒラメ・マゴチが釣れるようになる完全入門書🏖️\n離岸流の見つけ方・ルアーの選び方・地形の読み方を体系的に学べます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#サーフルアー",
+        "#ヒラメ",
+        "#マゴチ",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-09",
       "bookId": "book25",
       "patternIndex": 1,
