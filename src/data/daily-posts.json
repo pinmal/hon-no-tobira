@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-11",
+      "bookId": "book28",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book28.jpg",
+      "caption": "釣れた魚を親子で調理する30レシピ集です👨‍👧🐟\n「子どもでもできる安全な手順」を丁寧に解説。\n釣りから食卓まで、家族で楽しい思い出を作れます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#親子クッキング",
+        "#釣り飯",
+        "#家族アウトドア",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-10",
       "bookId": "book26",
       "patternIndex": 1,
