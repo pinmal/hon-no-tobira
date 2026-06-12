@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-12",
+      "bookId": "book31",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
+      "caption": "タイラバ釣行170回超の磯崎健太が教える、マダイを確実に釣るための知識🎣\n「なぜ等速巻きなのか」の理由から理解することで、タイラバが変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タイラバ好き",
+        "#マダイ狙い",
+        "#船釣り入門",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-11",
       "bookId": "book28",
       "patternIndex": 1,
