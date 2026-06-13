@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-13",
+      "bookId": "book36",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "夜焚きイカ釣行90回超の磯崎健太が教える、集魚灯の下でスルメイカ・ヤリイカを連発するコツ🦑\n「なぜ集魚灯に近い方が釣れるのか」の理由から実釣テクニックまで詳しく解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夜焚きイカ釣り",
+        "#スルメイカ",
+        "#ヤリイカ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-12",
       "bookId": "book31",
       "patternIndex": 2,
