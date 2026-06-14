@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-14",
+      "bookId": "book37",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
+      "caption": "コレステロール・血糖値を食事で改善したい方へ🩺\n無理な制限なし・コンビニ食でも実践できる「食事設計」の考え方が身につきます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#コレステロール",
+        "#血糖値改善",
+        "#食事改善",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-13",
       "bookId": "book36",
       "patternIndex": 2,
