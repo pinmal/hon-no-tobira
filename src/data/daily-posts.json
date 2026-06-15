@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-15",
+      "bookId": "book38",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "トイプードルの涙やけ・分離不安・吠え癖、どれかひとつでも悩んでいる方へ🐩\n「なぜそうなるのか」の理由から理解できるので、対処法が長続きします。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#トイプードル",
+        "#涙やけ",
+        "#分離不安",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-14",
       "bookId": "book37",
       "patternIndex": 1,
