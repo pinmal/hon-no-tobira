@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-16",
+      "bookId": "book35",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "夏のマダコを堤防から釣りたい方へ🐙\nアタリの感覚・タコエギの選び方・釣れる時期と場所・自宅での下処理まで、完全入門ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タコ釣り",
+        "#マダコ",
+        "#夏の釣り",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-15",
       "bookId": "book38",
       "patternIndex": 1,
