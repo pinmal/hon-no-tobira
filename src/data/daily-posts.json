@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-17",
+      "bookId": "book01",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
+      "caption": "釣れた魚を全部おいしく食べたい方へ📖\nさばき方・煮物・揚げ物・保存法まで網羅した一冊です🐟\n「捨てていた部分がご馳走に変わる」体験ができます。\n▶ プロフィールリンクからどうぞ",
+      "hashtags": [
+        "#魚料理レシピ",
+        "#堤防釣り",
+        "#釣り飯",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-16",
       "bookId": "book35",
       "patternIndex": 1,
