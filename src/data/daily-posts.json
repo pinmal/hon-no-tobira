@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-18",
+      "bookId": "book02",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "軽バン1台で釣りとキャンプを両立する方法、知りたくありませんか？\n装備の選び方・車中泊の快適術・釣り場選びまでセットで学べる一冊です⛺🎣\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#車中泊",
+        "#キャンプ飯",
+        "#釣りキャンプ",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-17",
       "bookId": "book01",
       "patternIndex": 1,
