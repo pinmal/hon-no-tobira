@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-19",
+      "bookId": "book03",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "キャンプ料理研究家の河野大輔が教える、現場で役立つ焚き火調理の知恵🔥\n「道具は少なく、料理は豊かに」がコンセプトの実践的な一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ好き",
+        "#焚き火料理",
+        "#アウトドア",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-18",
       "bookId": "book02",
       "patternIndex": 1,
