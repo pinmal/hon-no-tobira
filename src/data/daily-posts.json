@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-20",
+      "bookId": "book04",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
+      "caption": "柴犬を10年以上育ててきた久保里奈による、実体験に基づく育て方ガイドです🐕\n「こうすればよかった」という後悔をなくすための一冊。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#柴犬のいる暮らし",
+        "#犬育て",
+        "#ペットライフ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-19",
       "bookId": "book03",
       "patternIndex": 2,
