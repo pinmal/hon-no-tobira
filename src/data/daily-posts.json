@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-21",
+      "bookId": "book05",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
+      "caption": "プランター1個から始められる家庭菜園の入門書です🌱\n季節ごとの育て方・初心者がやりがちな失敗・水やりのコツまで丁寧に解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ベランダ菜園",
+        "#家庭菜園",
+        "#野菜作り",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-20",
       "bookId": "book04",
       "patternIndex": 2,
