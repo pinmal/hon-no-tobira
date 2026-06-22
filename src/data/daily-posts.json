@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-22",
+      "bookId": "book06",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
+      "caption": "帰宅後20分以内で作れる、一人暮らし向けの時短レシピ集です🍳\n疲れていても続けられる自炊習慣の作り方も解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#時短レシピ",
+        "#自炊",
+        "#一人暮らし",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-21",
       "bookId": "book05",
       "patternIndex": 1,
