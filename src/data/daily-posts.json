@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-23",
+      "bookId": "book10",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
+      "caption": "エギングでアオリイカを釣りたい方のための完全入門書🦑\nタックルの選び方からシャクリ方・さばき方まで、最短で結果を出すための知識が詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#エギング",
+        "#アオリイカ",
+        "#釣り初心者",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-22",
       "bookId": "book06",
       "patternIndex": 1,
