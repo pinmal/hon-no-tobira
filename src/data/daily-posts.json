@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-24",
+      "bookId": "book13",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
+      "caption": "週末に2時間かけるだけで、平日の夕食がぐっと楽になります🍱\n冷蔵・冷凍対応の作り置きレシピ60選。献立を考える時間もカットできます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#作り置きレシピ",
+        "#週末ごはん",
+        "#時短",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-23",
       "bookId": "book10",
       "patternIndex": 1,
