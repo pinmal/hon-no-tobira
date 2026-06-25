@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-25",
+      "bookId": "book23",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子どもと一緒に釣りを楽しみたいなら、釣り場選びが9割です👨‍👧\n安全・釣れる・トイレ付き…判断軸とおすすめポイントを全国網羅。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ファミリー釣り",
+        "#子連れ釣り",
+        "#アウトドア",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-24",
       "bookId": "book13",
       "patternIndex": 1,
