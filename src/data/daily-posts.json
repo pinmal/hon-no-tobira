@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-26",
+      "bookId": "book25",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
+      "caption": "ポータブル電源を7台乗り換えてきたやまちゃんが、釣りキャンプ目線で徹底解説🔋\n「実際に使ってどうだったか」のリアルな情報が詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ好き",
+        "#ポータブル電源",
+        "#アウトドアギア",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-25",
       "bookId": "book23",
       "patternIndex": 1,
