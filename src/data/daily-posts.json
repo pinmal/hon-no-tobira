@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-27",
+      "bookId": "book26",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
+      "caption": "玄界灘で500匹以上のヒラメを釣ってきた磯崎健太が教えるサーフ攻略法🏖️\n「なぜそこを狙うのか」の理由がわかれば釣果が変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#サーフ釣り",
+        "#ヒラメ狙い",
+        "#釣り好き",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-26",
       "bookId": "book25",
       "patternIndex": 2,
