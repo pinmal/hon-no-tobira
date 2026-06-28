@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-28",
+      "bookId": "book28",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book28.jpg",
+      "caption": "子ども3人と釣り×料理を楽しんできた田中しんじによる、ファミリー向け実践レシピ集👨‍👧🐟\n「子どもが包丁を握る最初の一歩」もサポートしています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#家族釣り",
+        "#料理教育",
+        "#釣りごはん",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-27",
       "bookId": "book26",
       "patternIndex": 2,
