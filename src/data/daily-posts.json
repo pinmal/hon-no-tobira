@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-29",
+      "bookId": "book31",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
+      "caption": "マダイの乗っ込みシーズン！🎣\nタイラバで大鯛を狙う最高の季節です。\n今から準備をしておけば、釣行当日に結果が出せます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タイラバシーズン",
+        "#マダイ釣り",
+        "#タイラバ入門",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-28",
       "bookId": "book28",
       "patternIndex": 2,
