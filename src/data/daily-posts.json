@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-06-30",
+      "bookId": "book36",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "ヤリイカ・スルメイカのシーズン到来！🦑\n夜焚き船釣りの魅力は、集魚灯に群れるイカを連発できること。\n今シーズンの準備はできていますか？初心者向け完全入門ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ヤリイカシーズン",
+        "#夜焚きイカ",
+        "#船釣り入門",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-06-29",
       "bookId": "book31",
       "patternIndex": 3,
