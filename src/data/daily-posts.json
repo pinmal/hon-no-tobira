@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-02",
+      "bookId": "book38",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "柴犬専門飼い主だった久保里奈が、トイプードルを迎えて一から学んだ育て方ガイドです🐩\n「犬種の違い」を実感しながら試行錯誤した経験がそのまま詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#トイプードルのいる暮らし",
+        "#犬育て",
+        "#ペットライフ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-01",
       "bookId": "book37",
       "patternIndex": 2,
