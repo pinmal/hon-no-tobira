@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-03",
+      "bookId": "book35",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "タコ釣り専業歴4年・累計68回出撃の磯崎健太が徹底解説🐙\n「タコはなぜ重くなるのか」から「確実に乗せるコツ」まで、体験に基づいた知識が詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タコ釣り好き",
+        "#マダコ釣り",
+        "#陸っぱり",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-02",
       "bookId": "book38",
       "patternIndex": 2,
