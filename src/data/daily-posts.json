@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-04",
+      "bookId": "book01",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
+      "caption": "釣り歴38年の磯崎健太 × 料理研究家の森山なつみによる「釣り×料理」の決定版🎣🍳\n現場で使える知識と、家庭で作れるレシピが1冊に凝縮されています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#釣り好き",
+        "#料理レシピ",
+        "#堤防釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-03",
       "bookId": "book35",
       "patternIndex": 2,
