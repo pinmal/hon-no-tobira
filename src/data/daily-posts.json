@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-05",
+      "bookId": "book02",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "実際に軽バンで釣りキャンプを100回以上経験したやまちゃんが書いた実践ガイドです🚐\n失敗談も含めたリアルな情報がぎっしり詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#アウトドア好き",
+        "#車中泊",
+        "#釣りキャンプ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-04",
       "bookId": "book01",
       "patternIndex": 2,
