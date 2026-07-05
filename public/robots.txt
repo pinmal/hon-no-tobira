@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hon-no-tobira.pages.dev/sitemap.xml

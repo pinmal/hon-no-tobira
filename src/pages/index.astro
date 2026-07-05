@@ -5,6 +5,28 @@ import { books, genres } from '../data/books';
 ---
 
 <Layout title="本のとびら — Kindleおすすめ書籍一覧">
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "本のとびら Kindle書籍一覧",
+    "description": "Kindleで読める本を毎日紹介しています。釣り・キャンプ・料理・健康・犬・園芸 ジャンル多彩。",
+    "url": "https://hon-no-tobira.pages.dev/",
+    "numberOfItems": books.length,
+    "itemListElement": books.map((book, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "item": {
+        "@type": "Book",
+        "name": book.title,
+        "author": { "@type": "Person", "name": book.author },
+        "genre": book.genre,
+        "image": `https://hon-no-tobira.pages.dev${book.cover}`,
+        ...(book.asin ? { "url": `https://www.amazon.co.jp/dp/${book.asin}?tag=honnotobira-22` } : {}),
+        ...(book.price ? { "offers": { "@type": "Offer", "price": book.price, "priceCurrency": "JPY" } } : {}),
+      }
+    }))
+  })} />
   <!-- Hero -->
   <section class="text-center py-8 space-y-3">
     <div class="text-5xl">📖</div>
