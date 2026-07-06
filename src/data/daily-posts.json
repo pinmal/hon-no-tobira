@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-06",
+      "bookId": "book03",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "今夜のキャンプ飯、焚き火で作ってみませんか？🔥\n火加減の基本からおしゃれなキャンプレシピまで、この一冊で焚き火料理が変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#週末キャンプ",
+        "#焚き火",
+        "#キャンプ飯",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-05",
       "bookId": "book02",
       "patternIndex": 2,
