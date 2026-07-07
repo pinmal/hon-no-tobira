@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-07",
+      "bookId": "book04",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
+      "caption": "柴犬を迎える予定の方、もしくは迎えて間もない方へ🐕\n最初の数ヶ月が一番大切です。この本でしつけの基本をしっかり押さえておきましょう。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#柴犬",
+        "#犬を飼う",
+        "#ペット",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-06",
       "bookId": "book03",
       "patternIndex": 3,
