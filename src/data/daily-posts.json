@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-09",
+      "bookId": "book06",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
+      "caption": "忙しい社会人として帰宅22時からの自炊を続けてきた宮本ユウカによるリアルな時短術🍳\n「続かない理由」から逆算した自炊ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#社会人の食事",
+        "#自炊習慣",
+        "#時短料理",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-08",
       "bookId": "book05",
       "patternIndex": 2,
