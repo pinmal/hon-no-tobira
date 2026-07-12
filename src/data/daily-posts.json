@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-12",
+      "bookId": "book23",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子ども3人と釣り場を巡り続けてきた田中しんじが教える、ファミリー釣行のリアル👨‍👧\n「危険な場所の見分け方」から「子どもが飽きない工夫」まで。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#子連れアウトドア",
+        "#釣り好き",
+        "#ファミリー釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-11",
       "bookId": "book13",
       "patternIndex": 2,
