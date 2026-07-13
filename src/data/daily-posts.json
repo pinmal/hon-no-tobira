@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "date": "2026-07-13",
+      "bookId": "book25",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
+      "caption": "キャンプシーズンに向けて、ポータブル電源を検討している方へ🔋\n今買うならどれがベストか、完全比較ガイドで確認してみてください。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ準備",
+        "#ポータブル電源",
+        "#釣りキャンプ",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "bookId": "book23",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子ども3人と釣り場を巡り続けてきた田中しんじが教える、ファミリー釣行のリアル👨‍👧\n「危険な場所の見分け方」から「子どもが飽きない工夫」まで。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#子連れアウトドア",
+        "#釣り好き",
+        "#ファミリー釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "bookId": "book13",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
+      "caption": "多忙な社会人として作り置き生活を実践してきた宮本ユウカによるリアルに使えるレシピ集🍱\n「保存期間」「解凍のコツ」まで丁寧に記載しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#作り置き料理",
+        "#自炊",
+        "#時短レシピ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-10",
       "bookId": "book10",
       "patternIndex": 2,
