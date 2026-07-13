@@ -128,6 +128,12 @@ import { books, genres } from '../data/books';
         >
           Amazonで読む →
         </a>
+
+        <!-- Author sites -->
+        <div id="modal-author-sites" class="hidden">
+          <h3 class="text-xs font-bold text-accent tracking-wide mb-2">🔗 著者の公式サイト</h3>
+          <div id="modal-author-sites-links" class="flex flex-col gap-2"></div>
+        </div>
       </div>
     </div>
   </div>
@@ -175,6 +181,8 @@ import { books, genres } from '../data/books';
   const modalToc = document.getElementById('modal-toc')!;
   const modalExcerpt = document.getElementById('modal-excerpt')!;
   const modalAmazon = document.getElementById('modal-amazon') as HTMLAnchorElement;
+  const modalAuthorSites = document.getElementById('modal-author-sites')!;
+  const modalAuthorSitesLinks = document.getElementById('modal-author-sites-links')!;
 
   const GENRE_COLOR: Record<string, string> = {
     '釣り': 'bg-blue-900 text-blue-200',
@@ -185,6 +193,11 @@ import { books, genres } from '../data/books';
     '園芸': 'bg-emerald-900 text-emerald-200',
   };
 
+  interface AuthorSite {
+    label: string;
+    url: string;
+  }
+
   interface BookData {
     id: string;
     title: string;
@@ -194,6 +207,7 @@ import { books, genres } from '../data/books';
     cover: string;
     tableOfContents: string[];
     excerpt: string;
+    authorSites: AuthorSite[];
   }
 
   function openModal(data: BookData) {
@@ -224,6 +238,23 @@ import { books, genres } from '../data/books';
       modalAmazon.style.display = '';
     } else {
       modalAmazon.style.display = 'none';
+    }
+
+    // Author sites
+    modalAuthorSitesLinks.innerHTML = '';
+    if (data.authorSites && data.authorSites.length > 0) {
+      data.authorSites.forEach((site) => {
+        const a = document.createElement('a');
+        a.href = site.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.className = 'block w-full text-center text-sm font-bold py-2.5 px-4 rounded-lg border border-accent text-accent hover:bg-accent hover:text-bg transition-colors';
+        a.textContent = `${site.label}を見る →`;
+        modalAuthorSitesLinks.appendChild(a);
+      });
+      modalAuthorSites.classList.remove('hidden');
+    } else {
+      modalAuthorSites.classList.add('hidden');
     }
 
     modal.classList.remove('hidden');

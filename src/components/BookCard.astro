@@ -1,6 +1,7 @@
 ---
 import type { Book } from '../data/books';
 import { amazonUrl } from '../data/books';
+import { getAuthorSites } from '../data/authorSites';
 
 interface Props {
   book: Book;
@@ -26,6 +27,7 @@ const bookData = JSON.stringify({
   cover: book.cover,
   tableOfContents: book.tableOfContents ?? [],
   excerpt: book.excerpt ?? '',
+  authorSites: getAuthorSites(book.author, book.id),
 });
 ---
 
