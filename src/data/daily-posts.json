@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-14",
+      "bookId": "book26",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
+      "caption": "ヒラメのハイシーズン！今すぐサーフに行きたくなる一冊です🏖️\n離岸流の見つけ方だけ覚えれば、ヒラメ釣りの成功率が大きく変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ヒラメ釣り",
+        "#サーフフィッシング",
+        "#秋の釣り",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-13",
       "bookId": "book25",
       "patternIndex": 3,
