@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-15",
+      "bookId": "book28",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book28.jpg",
+      "caption": "家族みんなで釣りを楽しんでいる方へ👨‍👧🐟\nせっかく釣れた魚、みんなで料理してみませんか？\n子どもも安心して参加できる30レシピ収録。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ファミリー釣り",
+        "#親子料理",
+        "#週末料理",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-14",
       "bookId": "book26",
       "patternIndex": 3,
