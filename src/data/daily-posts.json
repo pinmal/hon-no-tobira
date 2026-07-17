@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-17",
+      "bookId": "book36",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "夜焚きイカ釣りに行ってみたいけど、プラヅノ仕掛けも電動リールの操作もよくわからない…という方へ🦑\nスルメイカ・ヤリイカを船から狙う基本をゼロから解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夜焚きイカ",
+        "#スルメイカ",
+        "#船釣り",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-16",
       "bookId": "book31",
       "patternIndex": 0,
