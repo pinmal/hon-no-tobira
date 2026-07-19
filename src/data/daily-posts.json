@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-19",
+      "bookId": "book38",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "トイプードルをお迎えしたばかりの方・お迎えを検討している方へ🐩\n吠え・分離不安・涙やけの3大お悩みに、最初からしっかり向き合うための一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#プードル",
+        "#犬のいる生活",
+        "#犬好きな人と繋がりたい",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-18",
       "bookId": "book37",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#焚き火料理",
         "#キャンプ飯",
         "#アウトドア料理",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-20",
-      "bookId": "book36",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
-      "caption": "夜焚きイカ釣りに行ってみたいけど、プラヅノ仕掛けも電動リールの操作もよくわからない…という方へ🦑\nスルメイカ・ヤリイカを船から狙う基本をゼロから解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#夜焚きイカ",
-        "#スルメイカ",
-        "#船釣り",
         "#kindle本",
         "#本のとびら"
       ]
