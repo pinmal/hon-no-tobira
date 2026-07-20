@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-20",
+      "bookId": "book35",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "タコ釣りのシーズン到来！🐙\n6〜9月がマダコのベストシーズンです。\n今年こそ堤防タコ釣りに挑戦してみませんか？初心者向け完全ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夏の釣り",
+        "#タコ釣り",
+        "#マダコシーズン",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-19",
       "bookId": "book38",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#柴犬",
         "#犬のしつけ",
         "#犬好き",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "bookId": "book03",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
-      "caption": "焚き火で料理してみたいけど、何から始めればいいかわからない…という方へ🔥\nダッチオーブンなし・最小限の道具で本格的なキャンプ飯が作れる方法を解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#焚き火料理",
-        "#キャンプ飯",
-        "#アウトドア料理",
         "#kindle本",
         "#本のとびら"
       ]
