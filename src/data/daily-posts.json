@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-22",
+      "bookId": "book02",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "キャンプシーズン到来！今年こそ釣りとキャンプを同時に楽しみませんか？⛺🎣\n軽バン1台でできる最高のアウトドアスタイルをご紹介します。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ好き",
+        "#車中泊",
+        "#釣りキャンプ",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-21",
       "bookId": "book01",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#サーフフィッシング",
         "#ヒラメ釣り",
         "#釣り初心者",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-23",
-      "bookId": "book25",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
-      "caption": "Jackery・EcoFlow・BLUETTIどれがいいかわからない…という方へ🔋\n釣りキャンプで実際に使った視点から3社を徹底比較しています。\n失敗しない選び方がわかります。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#ポータブル電源",
-        "#釣りキャンプ",
-        "#アウトドア",
         "#kindle本",
         "#本のとびら"
       ]
