@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-25",
+      "bookId": "book05",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
+      "caption": "今年こそベランダ菜園を始めませんか？🌱\nプランターと土があれば今週末からスタートできます。季節別の育て方ガイド付きです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ベランダ菜園",
+        "#家庭菜園",
+        "#プランター栽培",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-24",
       "bookId": "book04",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#プラヅノ",
         "#ヤリイカ釣り",
         "#夜釣り",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-26",
-      "bookId": "book31",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
-      "caption": "タイラバでマダイを釣りたい方のための完全入門書🎣\nタックル選びからフォールで乗せる技術まで、初心者が確実に上達できる内容です。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#タイラバ",
-        "#マダイ",
-        "#乗合船",
         "#電子書籍",
         "#本のとびら"
       ]
