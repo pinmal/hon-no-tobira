@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-26",
+      "bookId": "book06",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
+      "caption": "毎日遅くまで働くあなたへ🍳\n帰宅後の夕食準備にかける時間、20分に減らしませんか？\n体と財布にやさしい一人暮らし飯の本です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#時短料理",
+        "#一人暮らし",
+        "#夜ごはん",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-25",
       "bookId": "book05",
       "patternIndex": 3,
@@ -823,20 +837,6 @@
         "#コレステロール改善",
         "#血糖値対策",
         "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-27",
-      "bookId": "book36",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
-      "caption": "夜の海に集魚灯が灯ると、スルメイカ・ヤリイカが一斉に浮いてくる🦑\nプラヅノの選び方・仕掛けの作り方・電動リールの使い方を初心者向けに解説。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#プラヅノ",
-        "#ヤリイカ釣り",
-        "#夜釣り",
-        "#電子書籍",
         "#本のとびら"
       ]
     }
