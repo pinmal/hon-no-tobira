@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-07-28",
+      "bookId": "book13",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
+      "caption": "今週末は作り置きしてみませんか？🍱\n2時間の投資で平日5日間の夕食が楽になります。\n60レシピ収録・冷凍対応つき。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#週末作り置き",
+        "#平日の食事",
+        "#作り置き",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-27",
       "bookId": "book10",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#タコ釣り初心者",
         "#マダコ",
         "#堤防釣り",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-05-29",
-      "bookId": "book38",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
-      "caption": "トイプードルが吠えすぎて困っている、分離不安で留守番できない…そんなお悩みを抱える飼い主さんへ🐩\n柴犬専門だった著者が一から学んだ、プードルと仲よく暮らすための実践的なコツを解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#トイプードル",
-        "#犬のしつけ",
-        "#吠え対策",
         "#kindle本",
         "#本のとびら"
       ]
