@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-01",
+      "bookId": "book28",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book28.jpg",
+      "caption": "釣った魚を子どもと一緒に料理したいけど、子どもに包丁を持たせるのが心配…という方へ👨‍👧🐟\n子どもでも安全にできる手順で釣り×料理の親子体験を楽しめます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#親子料理",
+        "#子連れ釣り",
+        "#釣りごはん",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-07-31",
       "bookId": "book26",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#柴犬好き",
         "#犬のいる生活",
         "#ペット",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "bookId": "book03",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
-      "caption": "ダッチオーブン不要！最小限の道具で焚き火料理が楽しめます🔥\n基本の火起こしから本格レシピまで、キャンプ飯のレベルが一気に上がる一冊です。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#キャンプごはん",
-        "#焚き火",
-        "#キャンプ料理",
         "#電子書籍",
         "#本のとびら"
       ]
