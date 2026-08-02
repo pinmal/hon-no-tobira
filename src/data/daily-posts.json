@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-02",
+      "bookId": "book31",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
+      "caption": "タイラバでマダイを釣りたい方のための完全入門書🎣\nタックル選びからフォールで乗せる技術まで、初心者が確実に上達できる内容です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タイラバ",
+        "#マダイ",
+        "#乗合船",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-01",
       "bookId": "book28",
       "patternIndex": 0,
@@ -823,20 +837,6 @@
         "#プランター栽培",
         "#ベランダ菜園",
         "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "bookId": "book04",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
-      "caption": "柴犬との暮らしをもっと楽しくしたいなら、この一冊が役立ちます🐕\n性格の特徴・効果的なしつけ方・健康管理のコツまで体系的に学べます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#柴犬好き",
-        "#犬のいる生活",
-        "#ペット",
-        "#電子書籍",
         "#本のとびら"
       ]
     }
