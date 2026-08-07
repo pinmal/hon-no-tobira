@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-07",
+      "bookId": "book01",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
+      "caption": "せっかく釣れた魚、さばき方がわからなくてリリースしたことはありませんか？\nこの本は釣った魚を「無駄なく食べる」ための完全ガイドです🎣\nさばき方・料理レシピ・保存法まで、釣りと料理をまるごと楽しめます。\n▶ プロフィールリンクからチェック📖",
+      "hashtags": [
+        "#堤防釣り",
+        "#釣りごはん",
+        "#魚料理",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-06",
       "bookId": "book35",
       "patternIndex": 0,
@@ -823,20 +837,6 @@
         "#車中泊",
         "#釣りキャンプ",
         "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-08",
-      "bookId": "book23",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
-      "caption": "子どもを連れて釣りに行きたいけど、どこに行けばいいか・安全なのかが心配…という親御さんへ👨‍👧\n子どもが「また行きたい！」と言う釣行の秘訣をまとめた全国ガイドです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#子連れ釣り",
-        "#ファミリー釣り",
-        "#釣り初心者",
-        "#kindle本",
         "#本のとびら"
       ]
     }
