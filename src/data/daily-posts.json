@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-08",
+      "bookId": "book02",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "車中泊しながら釣りもキャンプもしたい…でも何を揃えたらいいかわからない。\nそんな方のための入門書です🚐🎣\n軽バン1台で充実した釣りキャンプを始めるリアルな方法を解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#車中泊",
+        "#釣りキャンプ",
+        "#軽バン",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-07",
       "bookId": "book01",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#サーフルアー",
         "#ヒラメ",
         "#マゴチ",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "bookId": "book25",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
-      "caption": "釣りキャンプに最適なポータブル電源の選び方、知りたくありませんか？🔋\nJackery・EcoFlow・BLUETTIを実使用データで比較。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#ポータブル電源比較",
-        "#車中泊",
-        "#釣りキャンプ",
         "#電子書籍",
         "#本のとびら"
       ]
