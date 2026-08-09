@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-09",
+      "bookId": "book03",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "ダッチオーブン不要！最小限の道具で焚き火料理が楽しめます🔥\n基本の火起こしから本格レシピまで、キャンプ飯のレベルが一気に上がる一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプごはん",
+        "#焚き火",
+        "#キャンプ料理",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-08",
       "bookId": "book02",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#親子クッキング",
         "#釣り飯",
         "#家族アウトドア",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "bookId": "book26",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
-      "caption": "砂浜からヒラメ・マゴチが釣れるようになる完全入門書🏖️\n離岸流の見つけ方・ルアーの選び方・地形の読み方を体系的に学べます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#サーフルアー",
-        "#ヒラメ",
-        "#マゴチ",
         "#電子書籍",
         "#本のとびら"
       ]
