@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-11",
+      "bookId": "book05",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
+      "caption": "家庭菜園に挑戦したけど、うまく育てられなかった…そんな経験はありませんか？🌱\nベランダのプランターで成功するコツを季節別に解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#家庭菜園",
+        "#プランター栽培",
+        "#ベランダ菜園",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-10",
       "bookId": "book04",
       "patternIndex": 1,
@@ -822,20 +836,6 @@
         "#夜焚きイカ釣り",
         "#スルメイカ",
         "#ヤリイカ",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "bookId": "book31",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
-      "caption": "タイラバ釣行170回超の磯崎健太が教える、マダイを確実に釣るための知識🎣\n「なぜ等速巻きなのか」の理由から理解することで、タイラバが変わります。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#タイラバ好き",
-        "#マダイ狙い",
-        "#船釣り入門",
         "#kindle",
         "#本のとびら"
       ]
