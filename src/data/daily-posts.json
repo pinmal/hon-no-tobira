@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-12",
+      "bookId": "book06",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
+      "caption": "帰宅が遅くて自炊できない…でも外食・コンビニ続きは体に悪い気がする。\nそんなジレンマを解決する時短レシピ集です🍳\n帰宅後20分以内で作れます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#時短料理",
+        "#一人暮らし飯",
+        "#自炊",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-11",
       "bookId": "book05",
       "patternIndex": 0,
@@ -823,20 +837,6 @@
         "#血糖値改善",
         "#食事改善",
         "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-13",
-      "bookId": "book36",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
-      "caption": "夜焚きイカ釣行90回超の磯崎健太が教える、集魚灯の下でスルメイカ・ヤリイカを連発するコツ🦑\n「なぜ集魚灯に近い方が釣れるのか」の理由から実釣テクニックまで詳しく解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#夜焚きイカ釣り",
-        "#スルメイカ",
-        "#ヤリイカ",
-        "#kindle",
         "#本のとびら"
       ]
     }
