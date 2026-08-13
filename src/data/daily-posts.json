@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-13",
+      "bookId": "book10",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
+      "caption": "エギングを始めたいけど、アオリイカがどうしても釣れない…そんな方へ🦑\n春と秋の2シーズンを攻略するタックル選び・シャクリ方・さばき方まで初心者向けに解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#エギング初心者",
+        "#アオリイカ",
+        "#エギング",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-12",
       "bookId": "book06",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#トイプードル",
         "#涙やけ",
         "#分離不安",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "bookId": "book37",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
-      "caption": "コレステロール・血糖値を食事で改善したい方へ🩺\n無理な制限なし・コンビニ食でも実践できる「食事設計」の考え方が身につきます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#コレステロール",
-        "#血糖値改善",
-        "#食事改善",
         "#電子書籍",
         "#本のとびら"
       ]
