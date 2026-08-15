@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-15",
+      "bookId": "book23",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子どもを連れて釣りに行きたいけど、どこに行けばいいか・安全なのかが心配…という親御さんへ👨‍👧\n子どもが「また行きたい！」と言う釣行の秘訣をまとめた全国ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#子連れ釣り",
+        "#ファミリー釣り",
+        "#釣り初心者",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-14",
       "bookId": "book13",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#魚料理レシピ",
         "#堤防釣り",
         "#釣り飯",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-16",
-      "bookId": "book35",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
-      "caption": "夏のマダコを堤防から釣りたい方へ🐙\nアタリの感覚・タコエギの選び方・釣れる時期と場所・自宅での下処理まで、完全入門ガイドです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#タコ釣り",
-        "#マダコ",
-        "#夏の釣り",
         "#電子書籍",
         "#本のとびら"
       ]
