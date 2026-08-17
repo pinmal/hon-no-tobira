@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-17",
+      "bookId": "book26",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
+      "caption": "砂浜からヒラメ・マゴチが釣れるようになる完全入門書🏖️\n離岸流の見つけ方・ルアーの選び方・地形の読み方を体系的に学べます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#サーフルアー",
+        "#ヒラメ",
+        "#マゴチ",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-16",
       "bookId": "book25",
       "patternIndex": 1,
@@ -823,20 +837,6 @@
         "#焚き火料理",
         "#アウトドア",
         "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "bookId": "book02",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
-      "caption": "軽バン1台で釣りとキャンプを両立する方法、知りたくありませんか？\n装備の選び方・車中泊の快適術・釣り場選びまでセットで学べる一冊です⛺🎣\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#車中泊",
-        "#キャンプ飯",
-        "#釣りキャンプ",
-        "#電子書籍",
         "#本のとびら"
       ]
     }
