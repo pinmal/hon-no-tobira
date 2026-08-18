@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-18",
+      "bookId": "book28",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book28.jpg",
+      "caption": "釣れた魚を親子で調理する30レシピ集です👨‍👧🐟\n「子どもでもできる安全な手順」を丁寧に解説。\n釣りから食卓まで、家族で楽しい思い出を作れます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#親子クッキング",
+        "#釣り飯",
+        "#家族アウトドア",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-17",
       "bookId": "book26",
       "patternIndex": 1,
@@ -822,20 +836,6 @@
         "#柴犬のいる暮らし",
         "#犬育て",
         "#ペットライフ",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "bookId": "book03",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
-      "caption": "キャンプ料理研究家の河野大輔が教える、現場で役立つ焚き火調理の知恵🔥\n「道具は少なく、料理は豊かに」がコンセプトの実践的な一冊です。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#キャンプ好き",
-        "#焚き火料理",
-        "#アウトドア",
         "#kindle",
         "#本のとびら"
       ]
