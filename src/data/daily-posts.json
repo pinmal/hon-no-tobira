@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-19",
+      "bookId": "book31",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
+      "caption": "タイラバ釣行170回超の磯崎健太が教える、マダイを確実に釣るための知識🎣\n「なぜ等速巻きなのか」の理由から理解することで、タイラバが変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タイラバ好き",
+        "#マダイ狙い",
+        "#船釣り入門",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-18",
       "bookId": "book28",
       "patternIndex": 1,
@@ -823,20 +837,6 @@
         "#家庭菜園",
         "#野菜作り",
         "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-20",
-      "bookId": "book04",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book04.jpg",
-      "caption": "柴犬を10年以上育ててきた久保里奈による、実体験に基づく育て方ガイドです🐕\n「こうすればよかった」という後悔をなくすための一冊。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#柴犬のいる暮らし",
-        "#犬育て",
-        "#ペットライフ",
-        "#kindle",
         "#本のとびら"
       ]
     }
