@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-21",
+      "bookId": "book37",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
+      "caption": "コレステロール・血糖値を食事で改善したい方へ🩺\n無理な制限なし・コンビニ食でも実践できる「食事設計」の考え方が身につきます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#コレステロール",
+        "#血糖値改善",
+        "#食事改善",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-20",
       "bookId": "book36",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#エギング",
         "#アオリイカ",
         "#釣り初心者",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "bookId": "book06",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
-      "caption": "帰宅後20分以内で作れる、一人暮らし向けの時短レシピ集です🍳\n疲れていても続けられる自炊習慣の作り方も解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#時短レシピ",
-        "#自炊",
-        "#一人暮らし",
         "#電子書籍",
         "#本のとびら"
       ]
