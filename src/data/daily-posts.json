@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-23",
+      "bookId": "book35",
+      "patternIndex": 1,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "夏のマダコを堤防から釣りたい方へ🐙\nアタリの感覚・タコエギの選び方・釣れる時期と場所・自宅での下処理まで、完全入門ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#タコ釣り",
+        "#マダコ",
+        "#夏の釣り",
+        "#電子書籍",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-22",
       "bookId": "book38",
       "patternIndex": 1,
@@ -822,20 +836,6 @@
         "#ファミリー釣り",
         "#子連れ釣り",
         "#アウトドア",
-        "#電子書籍",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-24",
-      "bookId": "book13",
-      "patternIndex": 1,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
-      "caption": "週末に2時間かけるだけで、平日の夕食がぐっと楽になります🍱\n冷蔵・冷凍対応の作り置きレシピ60選。献立を考える時間もカットできます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#作り置きレシピ",
-        "#週末ごはん",
-        "#時短",
         "#電子書籍",
         "#本のとびら"
       ]
