@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-08-26",
+      "bookId": "book03",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "キャンプ料理研究家の河野大輔が教える、現場で役立つ焚き火調理の知恵🔥\n「道具は少なく、料理は豊かに」がコンセプトの実践的な一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ好き",
+        "#焚き火料理",
+        "#アウトドア",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-08-25",
       "bookId": "book02",
       "patternIndex": 1,
@@ -822,20 +836,6 @@
         "#家族釣り",
         "#料理教育",
         "#釣りごはん",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-06-27",
-      "bookId": "book26",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
-      "caption": "玄界灘で500匹以上のヒラメを釣ってきた磯崎健太が教えるサーフ攻略法🏖️\n「なぜそこを狙うのか」の理由がわかれば釣果が変わります。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#サーフ釣り",
-        "#ヒラメ狙い",
-        "#釣り好き",
         "#kindle",
         "#本のとびら"
       ]
