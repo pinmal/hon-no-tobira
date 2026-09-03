@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-03",
+      "bookId": "book26",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
+      "caption": "玄界灘で500匹以上のヒラメを釣ってきた磯崎健太が教えるサーフ攻略法🏖️\n「なぜそこを狙うのか」の理由がわかれば釣果が変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#サーフ釣り",
+        "#ヒラメ狙い",
+        "#釣り好き",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-02",
       "bookId": "book25",
       "patternIndex": 2,
@@ -823,20 +837,6 @@
         "#焚き火",
         "#キャンプ飯",
         "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "bookId": "book02",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
-      "caption": "実際に軽バンで釣りキャンプを100回以上経験したやまちゃんが書いた実践ガイドです🚐\n失敗談も含めたリアルな情報がぎっしり詰まっています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#アウトドア好き",
-        "#車中泊",
-        "#釣りキャンプ",
-        "#kindle",
         "#本のとびら"
       ]
     }
