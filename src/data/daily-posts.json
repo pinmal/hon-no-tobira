@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-06",
+      "bookId": "book36",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "ヤリイカ・スルメイカのシーズン到来！🦑\n夜焚き船釣りの魅力は、集魚灯に群れるイカを連発できること。\n今シーズンの準備はできていますか？初心者向け完全入門ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#ヤリイカシーズン",
+        "#夜焚きイカ",
+        "#船釣り入門",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-05",
       "bookId": "book31",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#社会人の食事",
         "#自炊習慣",
         "#時短料理",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "bookId": "book05",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
-      "caption": "農業経験30年の増田博之が教える、失敗しない家庭菜園のコツ🌿\n「なぜ育たないか」の理由から解説しているので、初心者でも無理なく続けられます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#家庭菜園",
-        "#プランター",
-        "#園芸初心者",
         "#kindle",
         "#本のとびら"
       ]
