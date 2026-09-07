@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-07",
+      "bookId": "book37",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
+      "caption": "忙しい社会人こそ、健康診断の数値を食事で改善できます🩺\n帰宅22時・外食・コンビニが中心の生活でも続けられる具体的な食事設計を宮本ユウカが解説。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#社会人の健康管理",
+        "#食事改善",
+        "#コレステロール対策",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-06",
       "bookId": "book36",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#エギング好き",
         "#アオリイカ釣り",
         "#釣り",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "bookId": "book06",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book06.jpg",
-      "caption": "忙しい社会人として帰宅22時からの自炊を続けてきた宮本ユウカによるリアルな時短術🍳\n「続かない理由」から逆算した自炊ガイドです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#社会人の食事",
-        "#自炊習慣",
-        "#時短料理",
         "#kindle",
         "#本のとびら"
       ]
