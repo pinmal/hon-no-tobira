@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-08",
+      "bookId": "book38",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "柴犬専門飼い主だった久保里奈が、トイプードルを迎えて一から学んだ育て方ガイドです🐩\n「犬種の違い」を実感しながら試行錯誤した経験がそのまま詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#トイプードルのいる暮らし",
+        "#犬育て",
+        "#ペットライフ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-07",
       "bookId": "book37",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#作り置き料理",
         "#自炊",
         "#時短レシピ",
-        "#kindle",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "bookId": "book10",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
-      "caption": "エギング釣行170回以上の磯崎健太が教える、アオリイカ攻略の全て🦑\n「なぜ釣れないのか」の理由から解説しているので、初心者でも確実に上達できます。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#エギング好き",
-        "#アオリイカ釣り",
-        "#釣り",
         "#kindle",
         "#本のとびら"
       ]
