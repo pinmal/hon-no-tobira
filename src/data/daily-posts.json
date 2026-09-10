@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-10",
+      "bookId": "book01",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
+      "caption": "釣り歴38年の磯崎健太 × 料理研究家の森山なつみによる「釣り×料理」の決定版🎣🍳\n現場で使える知識と、家庭で作れるレシピが1冊に凝縮されています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#釣り好き",
+        "#料理レシピ",
+        "#堤防釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-09",
       "bookId": "book35",
       "patternIndex": 2,
@@ -823,20 +837,6 @@
         "#ポータブル電源",
         "#釣りキャンプ",
         "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-12",
-      "bookId": "book23",
-      "patternIndex": 2,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
-      "caption": "子ども3人と釣り場を巡り続けてきた田中しんじが教える、ファミリー釣行のリアル👨‍👧\n「危険な場所の見分け方」から「子どもが飽きない工夫」まで。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#子連れアウトドア",
-        "#釣り好き",
-        "#ファミリー釣り",
-        "#kindle",
         "#本のとびら"
       ]
     }
