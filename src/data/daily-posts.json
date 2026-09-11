@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-11",
+      "bookId": "book02",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "実際に軽バンで釣りキャンプを100回以上経験したやまちゃんが書いた実践ガイドです🚐\n失敗談も含めたリアルな情報がぎっしり詰まっています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#アウトドア好き",
+        "#車中泊",
+        "#釣りキャンプ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-10",
       "bookId": "book01",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#ヒラメ釣り",
         "#サーフフィッシング",
         "#秋の釣り",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-13",
-      "bookId": "book25",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
-      "caption": "キャンプシーズンに向けて、ポータブル電源を検討している方へ🔋\n今買うならどれがベストか、完全比較ガイドで確認してみてください。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#キャンプ準備",
-        "#ポータブル電源",
-        "#釣りキャンプ",
         "#kindle本",
         "#本のとびら"
       ]
