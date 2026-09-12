@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-12",
+      "bookId": "book03",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book03.jpg",
+      "caption": "今夜のキャンプ飯、焚き火で作ってみませんか？🔥\n火加減の基本からおしゃれなキャンプレシピまで、この一冊で焚き火料理が変わります。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#週末キャンプ",
+        "#焚き火",
+        "#キャンプ飯",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-11",
       "bookId": "book02",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#ファミリー釣り",
         "#親子料理",
         "#週末料理",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "bookId": "book26",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book26.jpg",
-      "caption": "ヒラメのハイシーズン！今すぐサーフに行きたくなる一冊です🏖️\n離岸流の見つけ方だけ覚えれば、ヒラメ釣りの成功率が大きく変わります。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#ヒラメ釣り",
-        "#サーフフィッシング",
-        "#秋の釣り",
         "#kindle本",
         "#本のとびら"
       ]
