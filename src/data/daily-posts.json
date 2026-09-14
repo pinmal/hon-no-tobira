@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-14",
+      "bookId": "book05",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
+      "caption": "農業経験30年の増田博之が教える、失敗しない家庭菜園のコツ🌿\n「なぜ育たないか」の理由から解説しているので、初心者でも無理なく続けられます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#家庭菜園",
+        "#プランター",
+        "#園芸初心者",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-13",
       "bookId": "book04",
       "patternIndex": 3,
@@ -821,20 +835,6 @@
       "hashtags": [
         "#夜焚きイカ",
         "#スルメイカ",
-        "#船釣り",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "bookId": "book31",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book31.jpg",
-      "caption": "タイラバに挑戦したいけど、タックル選びも等速巻きも難しそうで…という方へ🎣\n初心者が最短で釣果を出すためのタックル選び・フォール技術・ネクタイの使い方を解説しています。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#タイラバ初心者",
-        "#マダイ釣り",
         "#船釣り",
         "#kindle本",
         "#本のとびら"
