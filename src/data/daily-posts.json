@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-16",
+      "bookId": "book10",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
+      "caption": "エギング釣行170回以上の磯崎健太が教える、アオリイカ攻略の全て🦑\n「なぜ釣れないのか」の理由から解説しているので、初心者でも確実に上達できます。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#エギング好き",
+        "#アオリイカ釣り",
+        "#釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-15",
       "bookId": "book06",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#プードル",
         "#犬のいる生活",
         "#犬好きな人と繋がりたい",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "bookId": "book37",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book37.jpg",
-      "caption": "健康診断シーズン前に読んでおきたい一冊です🩺\n数値が気になり始めた方・再検査を避けたい方へ。コンビニ飯でも実践できる食事設計の実践ガイドです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#健康診断",
-        "#血糖値",
-        "#コレステロール改善",
         "#kindle本",
         "#本のとびら"
       ]
