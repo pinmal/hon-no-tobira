@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-17",
+      "bookId": "book13",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
+      "caption": "多忙な社会人として作り置き生活を実践してきた宮本ユウカによるリアルに使えるレシピ集🍱\n「保存期間」「解凍のコツ」まで丁寧に記載しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#作り置き料理",
+        "#自炊",
+        "#時短レシピ",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-16",
       "bookId": "book10",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#夏の釣り",
         "#タコ釣り",
         "#マダコシーズン",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "bookId": "book38",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
-      "caption": "トイプードルをお迎えしたばかりの方・お迎えを検討している方へ🐩\n吠え・分離不安・涙やけの3大お悩みに、最初からしっかり向き合うための一冊です。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#プードル",
-        "#犬のいる生活",
-        "#犬好きな人と繋がりたい",
         "#kindle本",
         "#本のとびら"
       ]
