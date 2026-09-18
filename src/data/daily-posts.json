@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-18",
+      "bookId": "book23",
+      "patternIndex": 2,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
+      "caption": "子ども3人と釣り場を巡り続けてきた田中しんじが教える、ファミリー釣行のリアル👨‍👧\n「危険な場所の見分け方」から「子どもが飽きない工夫」まで。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#子連れアウトドア",
+        "#釣り好き",
+        "#ファミリー釣り",
+        "#kindle",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-17",
       "bookId": "book13",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#週末釣り",
         "#釣りごはん",
         "#堤防釣り",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-20",
-      "bookId": "book35",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
-      "caption": "タコ釣りのシーズン到来！🐙\n6〜9月がマダコのベストシーズンです。\n今年こそ堤防タコ釣りに挑戦してみませんか？初心者向け完全ガイドです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#夏の釣り",
-        "#タコ釣り",
-        "#マダコシーズン",
         "#kindle本",
         "#本のとびら"
       ]
