@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-19",
+      "bookId": "book25",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
+      "caption": "キャンプシーズンに向けて、ポータブル電源を検討している方へ🔋\n今買うならどれがベストか、完全比較ガイドで確認してみてください。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ準備",
+        "#ポータブル電源",
+        "#釣りキャンプ",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-18",
       "bookId": "book23",
       "patternIndex": 2,
@@ -822,20 +836,6 @@
         "#キャンプ好き",
         "#車中泊",
         "#釣りキャンプ",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "bookId": "book01",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
-      "caption": "週末に釣れた魚、どうしていますか？\nこの本があれば釣り場から食卓まで全部楽しめます🎣🍽️\n今週末の釣行前にぜひ読んでみてください。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#週末釣り",
-        "#釣りごはん",
-        "#堤防釣り",
         "#kindle本",
         "#本のとびら"
       ]
