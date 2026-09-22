@@ -1,5 +1,8 @@
 // 著者×公式サイト マッピング（本のとびら → 各著者ブログへの相互リンク用）
-// 対応サイトが無い著者（増田博之=園芸／よつば=小説）は空配列を返す。
+// 対応サイトが無い著者（よつば=小説）は空配列を返す。
+//
+// ⚠️ planter-note のドメインは `planter-note.pages.dev`。
+// 独自ドメイン `planter-note.dev` は未購入で到達不能（I-270）。絶対に書かないこと。
 
 export interface AuthorSite {
   label: string;
@@ -11,6 +14,7 @@ const SITES: Record<string, { label: string; domain: string }> = {
   'tsuri-navi': { label: 'つりナビ', domain: 'tsuriyoho.com' },
   'tsuri-camp': { label: 'やまちゃん日記', domain: 'tsuri-camp.com' },
   'jitan-kenko': { label: '時短健康ごはん', domain: 'jitan-kenko.blog' },
+  'planter-note': { label: 'プランターノート', domain: 'planter-note.pages.dev' },
 };
 
 // 著者名 → 使用サイトキー一覧
@@ -23,6 +27,7 @@ const AUTHOR_SITE_KEYS: Record<string, string[]> = {
   'やまちゃん': ['tsuri-camp'],
   '河野大輔': ['tsuri-camp'],
   '宮本ユウカ': ['jitan-kenko'],
+  '増田博之': ['planter-note'],
 };
 
 export function getAuthorSites(author: string, bookId: string): AuthorSite[] {
