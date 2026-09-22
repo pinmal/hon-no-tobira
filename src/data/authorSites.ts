@@ -30,6 +30,15 @@ const AUTHOR_SITE_KEYS: Record<string, string[]> = {
   '増田博之': ['planter-note'],
 };
 
+/**
+ * 全サイトの一覧（トップページの静的リンクセクション用）。
+ * モーダル内リンクはJS生成でクローラーが辿れないため、静的リンクの正本として使う。
+ */
+export const allAuthorSites: AuthorSite[] = Object.values(SITES).map((s) => ({
+  label: s.label,
+  url: `https://${s.domain}/?utm_source=hon-no-tobira&utm_medium=portal&utm_campaign=author-sites`,
+}));
+
 export function getAuthorSites(author: string, bookId: string): AuthorSite[] {
   const keys = AUTHOR_SITE_KEYS[author] ?? [];
   return keys.map((key) => {
