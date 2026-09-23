@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-23",
+      "bookId": "book36",
+      "patternIndex": 0,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book36.jpg",
+      "caption": "夜焚きイカ釣りに行ってみたいけど、プラヅノ仕掛けも電動リールの操作もよくわからない…という方へ🦑\nスルメイカ・ヤリイカを船から狙う基本をゼロから解説しています。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夜焚きイカ",
+        "#スルメイカ",
+        "#船釣り",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-22",
       "bookId": "book31",
       "patternIndex": 0,
@@ -822,20 +836,6 @@
         "#時短料理",
         "#一人暮らし",
         "#夜ごはん",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "bookId": "book05",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book05.jpg",
-      "caption": "今年こそベランダ菜園を始めませんか？🌱\nプランターと土があれば今週末からスタートできます。季節別の育て方ガイド付きです。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#ベランダ菜園",
-        "#家庭菜園",
-        "#プランター栽培",
         "#kindle本",
         "#本のとびら"
       ]
