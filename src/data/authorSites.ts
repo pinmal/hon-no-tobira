@@ -15,6 +15,7 @@ const SITES: Record<string, { label: string; domain: string }> = {
   'tsuri-camp': { label: 'やまちゃん日記', domain: 'tsuri-camp.com' },
   'jitan-kenko': { label: '時短健康ごはん', domain: 'jitan-kenko.blog' },
   'planter-note': { label: 'プランターノート', domain: 'planter-note.pages.dev' },
+  'umi-suisou-nikki': { label: 'しんじパパの海の水槽日記', domain: 'umi-suisou-nikki.com' },
 };
 
 // 著者名 → 使用サイトキー一覧
@@ -23,7 +24,7 @@ const AUTHOR_SITE_KEYS: Record<string, string[]> = {
   '磯崎健太': ['tsuri-navi', 'tsuri-camp'],
   '磯崎健太 × 森山なつみ': ['tsuri-navi', 'tsuri-camp'],
   '佐藤けいすけ': ['tsuri-navi', 'tsuri-camp'],
-  '田中しんじ': ['tsuri-navi', 'tsuri-camp'],
+  '田中しんじ': ['tsuri-navi', 'tsuri-camp', 'umi-suisou-nikki'],
   'やまちゃん': ['tsuri-camp'],
   '河野大輔': ['tsuri-camp'],
   '宮本ユウカ': ['jitan-kenko'],
