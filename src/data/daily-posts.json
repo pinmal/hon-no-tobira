@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-25",
+      "bookId": "book38",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "トイプードルをお迎えしたばかりの方・お迎えを検討している方へ🐩\n吠え・分離不安・涙やけの3大お悩みに、最初からしっかり向き合うための一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#プードル",
+        "#犬のいる生活",
+        "#犬好きな人と繋がりたい",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-24",
       "bookId": "book37",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#週末作り置き",
         "#平日の食事",
         "#作り置き",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "bookId": "book10",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
-      "caption": "春エギングのシーズン到来！🦑\n大型アオリイカを狙うなら、この時期が最大のチャンスです。\n釣れるシャクリ方の基本、ちゃんと学んでいますか？\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#春エギング",
-        "#アオリイカ",
-        "#エギング入門",
         "#kindle本",
         "#本のとびら"
       ]
