@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "date": "2026-09-26",
+      "bookId": "book35",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "タコ釣りのシーズン到来！🐙\n6〜9月がマダコのベストシーズンです。\n今年こそ堤防タコ釣りに挑戦してみませんか？初心者向け完全ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夏の釣り",
+        "#タコ釣り",
+        "#マダコシーズン",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-25",
       "bookId": "book38",
       "patternIndex": 3,
@@ -822,20 +836,6 @@
         "#夏休み釣り",
         "#子連れ釣り",
         "#ファミリー",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "bookId": "book13",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
-      "caption": "今週末は作り置きしてみませんか？🍱\n2時間の投資で平日5日間の夕食が楽になります。\n60レシピ収録・冷凍対応つき。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#週末作り置き",
-        "#平日の食事",
-        "#作り置き",
         "#kindle本",
         "#本のとびら"
       ]
