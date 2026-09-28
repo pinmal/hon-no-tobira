@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "date": "2026-09-28",
+      "bookId": "book02",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book02.jpg",
+      "caption": "キャンプシーズン到来！今年こそ釣りとキャンプを同時に楽しみませんか？⛺🎣\n軽バン1台でできる最高のアウトドアスタイルをご紹介します。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#キャンプ好き",
+        "#車中泊",
+        "#釣りキャンプ",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "bookId": "book01",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book01.jpg",
+      "caption": "週末に釣れた魚、どうしていますか？\nこの本があれば釣り場から食卓まで全部楽しめます🎣🍽️\n今週末の釣行前にぜひ読んでみてください。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#週末釣り",
+        "#釣りごはん",
+        "#堤防釣り",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "bookId": "book35",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book35.jpg",
+      "caption": "タコ釣りのシーズン到来！🐙\n6〜9月がマダコのベストシーズンです。\n今年こそ堤防タコ釣りに挑戦してみませんか？初心者向け完全ガイドです。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#夏の釣り",
+        "#タコ釣り",
+        "#マダコシーズン",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bookId": "book38",
+      "patternIndex": 3,
+      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book38.jpg",
+      "caption": "トイプードルをお迎えしたばかりの方・お迎えを検討している方へ🐩\n吠え・分離不安・涙やけの3大お悩みに、最初からしっかり向き合うための一冊です。\n▶ プロフィールリンクから📖",
+      "hashtags": [
+        "#プードル",
+        "#犬のいる生活",
+        "#犬好きな人と繋がりたい",
+        "#kindle本",
+        "#本のとびら"
+      ]
+    },
+    {
       "date": "2026-09-24",
       "bookId": "book37",
       "patternIndex": 3,
@@ -780,62 +836,6 @@
         "#サーフフィッシング",
         "#ヒラメ釣り",
         "#釣り初心者",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "bookId": "book25",
-      "patternIndex": 0,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book25.jpg",
-      "caption": "Jackery・EcoFlow・BLUETTIどれがいいかわからない…という方へ🔋\n釣りキャンプで実際に使った視点から3社を徹底比較しています。\n失敗しない選び方がわかります。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#ポータブル電源",
-        "#釣りキャンプ",
-        "#アウトドア",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-29",
-      "bookId": "book23",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book23.jpg",
-      "caption": "夏休みに子どもと釣りはいかがですか？👨‍👧\n全国の子連れ向け釣り場ガイド付き。\n初めての家族釣行を成功させる一冊です。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#夏休み釣り",
-        "#子連れ釣り",
-        "#ファミリー",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "bookId": "book13",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book13.jpg",
-      "caption": "今週末は作り置きしてみませんか？🍱\n2時間の投資で平日5日間の夕食が楽になります。\n60レシピ収録・冷凍対応つき。\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#週末作り置き",
-        "#平日の食事",
-        "#作り置き",
-        "#kindle本",
-        "#本のとびら"
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "bookId": "book10",
-      "patternIndex": 3,
-      "imageUrl": "https://raw.githubusercontent.com/pinmal/hon-no-tobira/main/public/covers/book10.jpg",
-      "caption": "春エギングのシーズン到来！🦑\n大型アオリイカを狙うなら、この時期が最大のチャンスです。\n釣れるシャクリ方の基本、ちゃんと学んでいますか？\n▶ プロフィールリンクから📖",
-      "hashtags": [
-        "#春エギング",
-        "#アオリイカ",
-        "#エギング入門",
         "#kindle本",
         "#本のとびら"
       ]
