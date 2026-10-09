@@ -1,8 +1,8 @@
 // 著者×公式サイト マッピング（本のとびら → 各著者ブログへの相互リンク用）
 // 対応サイトが無い著者（よつば=小説）は空配列を返す。
 //
-// ⚠️ planter-note のドメインは `planter-note.pages.dev`。
-// 独自ドメイン `planter-note.dev` は未購入で到達不能（I-270）。絶対に書かないこと。
+// ⚠️ planter-note の正式ドメインは `planter-note.com`（2026-09-30取得）。
+// `planter-note.pages.dev` は旧URL（canonicalは.comに統一済み）、`planter-note.dev` は未購入で到達不能（I-270）。書かないこと。
 
 export interface AuthorSite {
   label: string;
@@ -14,7 +14,7 @@ const SITES: Record<string, { label: string; domain: string }> = {
   'tsuri-navi': { label: 'つりナビ', domain: 'tsuriyoho.com' },
   'tsuri-camp': { label: 'やまちゃん日記', domain: 'tsuri-camp.com' },
   'jitan-kenko': { label: '時短健康ごはん', domain: 'jitan-kenko.blog' },
-  'planter-note': { label: 'プランターノート', domain: 'planter-note.pages.dev' },
+  'planter-note': { label: 'プランターノート', domain: 'planter-note.com' },
   'umi-suisou-nikki': { label: 'しんじパパの海の水槽日記', domain: 'umi-suisou-nikki.com' },
 };
 
